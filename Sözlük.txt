@@ -1,0 +1,38 @@
+Glossary  -  Sözlük
+Misinterpretation  -  Yanlış yorumlama
+Compromise  -  Taviz
+Supersed  -  Yerini almak
+Unambiguous  -  Kesin
+Viable  -  Yaşayabilir(Geçerli)
+Concise  -  Özlü
+Considerations  -  Hususlar
+Ambiguity  -  Belirsizlik
+Corresponding  -  Uyan
+Adhere  -  Bağlı kalmak
+Assess  -  Belirlemek
+Deficiency  -  Eksiklik
+Scope  -  Kapsam
+Granularity  -  Taneciklilik(Atomicity)
+Narrative  -  Öykü
+Condition  -  Durum
+Constraint  -  Kısıtlama
+Omission  -  İhmal
+Promotion  -  Tanıtım
+Regulatory  -  Düzenleyici
+Augment  -  Arttırmak
+Attribute  -  Nitelik
+Reimbursement  -  Geri ödeme
+
+Elicit  -  Çıkarmak
+
+Elaboration  -  Dikkatle hazırlanma
+Incorporate  -  Birleştirmek
+Mitigate  -  Hafifletmek
+Convenience  -  Müsait oluş
+Feasibility  -  Geçerlilik
+Uncovers  -  Ortaya çıkarmak
+Refinement  -  Düzeltme
+Articulating  -  Düzgün biçimde ifade etmek
+Consensus  -  Fikir birliği
+Liaison  -  İrtibat
+Arbiter  -  Söz Sahibi

@@ -1,0 +1,36 @@
+Adhere  -  Bağlı kalmak
+Ambiguity  -  Belirsizlik
+Arbiter  -  Söz Sahibi
+Articulating  -  Düzgün biçimde ifade etmek
+Assess  -  Belirlemek
+Attribute  -  Nitelik
+Augment  -  Arttırmak
+Compromise  -  Taviz
+Concise  -  Özlü
+Condition  -  Durum
+Consensus  -  Fikir birliği
+Considerations  -  Hususlar
+Constraint  -  Kısıtlama
+Convenience  -  Müsait oluş
+Corresponding  -  Uyan
+Deficiency  -  Eksiklik
+Elaboration  -  Dikkatle hazırlanma
+Elicit  -  Çıkarmak
+Feasibility  -  Geçerlilik
+Glossary  -  Sözlük
+Granularity  -  Taneciklilik(Atomicity)
+Incorporate  -  Birleştirmek
+Liaison  -  İrtibat
+Misinterpretation  -  Yanlış yorumlama
+Mitigate  -  Hafifletmek
+Narrative  -  Öykü
+Omission  -  İhmal
+Promotion  -  Tanıtım
+Refinement  -  Düzeltme
+Regulatory  -  Düzenleyici
+Reimbursement  -  Geri ödeme
+Scope  -  Kapsam
+Supersed  -  Yerini almak
+Unambiguous  -  Kesin
+Uncovers  -  Ortaya çıkarmak
+Viable  -  Yaşayabilir(Geçerli)
