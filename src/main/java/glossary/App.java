@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  */
 public class App {
     public static void main(String[] args) throws Exception {
-        final File outFile = new File("OrderedGlossary");
+        final File outFile = new File("OrderedGlossary.txt");
         final List<String> orderedList = new ArrayList<>();
         try (
                 FileInputStream fis = new FileInputStream("Sözlük.txt");
